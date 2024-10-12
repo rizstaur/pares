@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport">
+        <title>Paris html</title>
+       <h1 style="font-size: 30px; color: blue">Gift to give to Paris</h1> 
+        <p style="font-size: 20px;">So if you don't know, my birthday is coming up this October 31, 2024. If you haveen't 
+            decide what to give me yet, I made a list
+             myself so you won't struggle trying to guess what I want.</p>
+             <!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+</head>
+             <head>
+        <h2 style="font-size: 30px;">Here are some phone suggestions</h2>
+        <h3 style="font-size: 25px;">1. Poco F6 Pro (1t for gaming)</h3>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnOo1kL_X2hTyMwBI4f_r3B8E_16CxJq-orw&s"
+         alt="phone" height="200" width="350"
+        <hr>
+        <p style="font-size: 20px;">Poco F6 Pro is a gaming phone that was released on May 23, 2024. It has a Snapdragon® 8 Gen 2
+             one of the best processor this year, storage of 256GB up to 1t a ram up to 16GB. </p>
+        <p style="font-size: 25px;">Full specs of Poco F6 Pro</h4>
+        <p style="font-size: 20px;;">Snapdragon 8 Gen 2<br>Up to 1TB Storage<br>Up to 
+            16GB RAM<br>6.67' Flow AMOLED<br>120Hz Refresh Rate<br>50mp Triple
+             Camera<br>8K 24FPS<br>120W Fast Charging<br>5000mAh Battery<br>Up to 4000nits Peak Brightness</p>
+             <p>I will use this phone for school and gaming.</p>
+           <!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+			
